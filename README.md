@@ -1,6 +1,6 @@
-# 🚀 90 Days AI/ML Roadmap for Beginners
+# 🚀 30 Days AI/ML Roadmap for Beginners
 <br>
-Welcome to the 90 Days AI/ML Roadmap Series!
+Welcome to the 30 Days AI/ML Roadmap Series!
 <br>
 This repository contains free daily roadmaps, resources, and learning plans for students who want to start their journey in Artificial Intelligence and Machine Learning.
 <br>
