@@ -6,43 +6,43 @@ This repository contains free daily roadmaps, resources, and learning plans for 
 <br>
 🎯 Who is this for?
 <br>
-College students
+*College students
 <br>
-Beginners in AI/ML
+*Beginners in AI/ML
 <br>
-Students preparing for internships
+*Students preparing for internships
 <br>
-Anyone learning Python, DSA, and Machine Learning from scratch
+*Anyone learning Python, DSA, and Machine Learning from scratch
 <br>
 📅 Daily Roadmaps
 <br>
-Day	Topic	Status
+#Day	Topic	Status
 <br>
-Day 1	AI/ML Beginner Setup & Foundations	✅
+#Day 1	AI/ML Beginner Setup & Foundations	✅
 <br>
-Day 2	Python Fundamentals	Coming Soon
+#Day 2	Python Fundamentals	Coming Soon
 <br>
-Day 3	Git & GitHub Basics	Coming Soon
+#Day 3	Git & GitHub Basics	Coming Soon
 <br>
-Day 4	NumPy Introduction	Coming Soon
+#Day 4	NumPy Introduction	Coming Soon
 <br>
-Day 5	First DSA Problems	Coming Soon
+#Day 5	First DSA Problems	Coming Soon
 <br>
 🛠 Tech Stack
 <br>
-Python
+*Python
 <br>
-C++
+*C++
 <br>
-Git & GitHub
+*Git & GitHub
 <br>
-NumPy
+*NumPy
 <br>
-Pandas
+*Pandas
 <br>
-Scikit-Learn
+*Scikit-Learn
 <br>
-Streamlit
+*Streamlit
 <br>
 🌟 Goal
 <br>
