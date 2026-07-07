@@ -18,15 +18,15 @@ This repository contains free daily roadmaps, resources, and learning plans for 
 <br>
 #Day	Topic	Status
 <br>
-#Day 1	AI/ML Beginner Setup & Foundations	✅
+#AI/ML Beginner Setup & Foundations	✅
 <br>
-#Day 2	Python Fundamentals	Coming Soon
+#Python Fundamentals✅ 
 <br>
-#Day 3	Git & GitHub Basics	Coming Soon
+#Git & GitHub Basics	Coming Soon
 <br>
-#Day 4	NumPy Introduction	Coming Soon
+#NumPy Introduction	Coming Soon
 <br>
-#Day 5	First DSA Problems	Coming Soon
+#First DSA Problems	Coming Soon
 <br>
 🛠 Tech Stack
 <br>
