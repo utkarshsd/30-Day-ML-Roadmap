@@ -25,3 +25,4 @@ for index, row in df_beginner.iterrows():
 end_time = time.time()
 print(f"Beginner Loop Took: {end_time - start_time:.2f} seconds 🐌")
 
+

@@ -30,3 +30,4 @@ print("Student:", name)
 print("Total Marks:", total)
 print("Percentage:", round(percentage, 2), "%")
 print("Grade:", grade)
+

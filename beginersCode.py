@@ -20,3 +20,5 @@ for index, row in df.iterrows():
         df.loc[index, 'Role_Tier'] = 'Senior'
     else:
         df.loc[index, 'Role_Tier'] = 'Junior'
+
+        
